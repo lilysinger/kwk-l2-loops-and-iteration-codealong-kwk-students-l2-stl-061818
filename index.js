@@ -8,6 +8,6 @@ function tailsNeverFails(){
 
 console.log(`You got ${tails} tails in a row`);
 
-}
+
 
 tailsNeverFails()
